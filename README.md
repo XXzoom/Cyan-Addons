@@ -8,13 +8,14 @@ _A QOL module for hypixel skyblock._
 
 - Terminal Solver and Terminal GUI
 - Device Solvers
-- Autokick for partyfinder
+- Autokick for partyfinder & partyfinder stats
 - Secrets and rooms tracker
 - Terminal/Devices/Levers tracker
 - Custom Dungeon map
 - Item Rarity
 - Locking and binding slots
 - Star Mob Highlighter
+- DPS counter
 
 ---
 
